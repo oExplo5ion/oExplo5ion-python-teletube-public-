@@ -1,0 +1,2 @@
+TOKEN = ''
+FIREBASE_CRED = ''
